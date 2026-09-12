@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mariam%20Abu%20Sawwa&fontSize=52&fontAlignY=35&desc=Data%20Scientist%20%26%20AI%20Developer%20%7C%20Flutter%20Developer&descAlignY=58&descSize=18&color=gradient&customColorList=6,12,19,24&animation=fadeIn&fontColor=ffffff" width="100%" alt="Mariam Abu Sawwa profile banner" />
 
-### Building data-driven models and intelligent mobile experiences
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+AI-Powered+Mobile+Applications;Turning+Data+into+Practical+Solutions;Connecting+Machine+Learning+with+Flutter" alt="Professional focus" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-mariamsawwa12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariamsawwa12)
 ![Location](https://img.shields.io/badge/Location-Jordan-7B61FF?style=for-the-badge)
@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am a **Data Scientist & AI Developer and Flutter Developer** with an academic background in Data Science and Artificial Intelligence. I build end-to-end projects that move from data exploration and model development to practical, user-facing mobile applications.
+I am a **Data Scientist, AI Developer, and Flutter Developer** based in Jordan, with an academic background in Data Science and Artificial Intelligence at **Al al-Bayt University**. I build end-to-end projects that move from data exploration and model development to practical, user-facing mobile applications.
 
 My strongest intersection is **AI model development + Flutter integration**: preparing and evaluating machine-learning models, converting them for mobile deployment, and building the application experience around their predictions.
 
@@ -60,45 +60,31 @@ My strongest intersection is **AI model development + Flutter integration**: pre
 
 ## Featured Projects
 
-### [StudyMate — AI-Powered Academic Companion](https://github.com/mariamsawwa12/studymate-showcase)
+### Flagship Project
 
-My strongest end-to-end AI and mobile project. I developed the Flutter application and the academic regression model, converted the model to TensorFlow Lite, integrated on-device inference, and added Firebase authentication, prediction history, bilingual localization, performance insights, and personalized study guidance.
+#### [StudyMate — From Deep-Learning Model to Flutter Application](https://github.com/mariamsawwa12/studymate-showcase)
 
-**Flutter · TensorFlow · Keras · TensorFlow Lite · Firebase · Provider**
+StudyMate best represents the intersection of my AI and mobile-development work. I developed the academic regression model, evaluated and prepared it for deployment, converted it to TensorFlow Lite, and built the Flutter application around its predictions.
 
----
+The application includes Firebase authentication, on-device inference, user-specific prediction history, performance analysis, personalized study guidance, Provider-based state management, and English/Arabic localization with RTL support.
 
-### [Alpha Financial App — AI-Assisted Personal Finance](https://github.com/mariamsawwa12/alpha-financial-app)
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Lite" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Provider-6C63FF?style=flat-square" alt="Provider" />
+</p>
 
-A multidisciplinary team project combining Flutter, Backend, and AI services. My contribution focused on the Flutter UI, Provider-based state management, REST API integration, authentication and OTP, financial workflows, localization, theming, and mobile-side receipt, voice, chatbot, notification, and analysis experiences.
+### More Selected Work
 
-**Flutter · Dart · Provider · REST APIs · Localization · Mobile Integrations**
+| Project | Focus & Contribution | Technologies |
+| --- | --- | --- |
+| [Alpha Financial App](https://github.com/mariamsawwa12/alpha-financial-app) | Team-based AI-assisted finance platform. I worked on the Flutter UI, state management, REST integration, localization, and mobile-side financial, receipt, voice, chatbot, notification, and analysis flows. | Flutter, Provider, REST APIs |
+| [Mova](https://github.com/mariamsawwa12/mova_app) | Independent movie-discovery application with dynamic search, advanced filters, details, trailers, watchlists, Firebase user services, localization, and themes. | Flutter, TMDB, Firebase |
+| [Telco Churn Prediction](https://github.com/mariamsawwa12/telco-customer-churn-prediction) | End-to-end imbalanced classification workflow with EDA, feature engineering, five-model comparison, GridSearchCV, and held-out testing. Test F1: **0.5656**. | Python, Pandas, scikit-learn |
+| [Student Grade Prediction](https://github.com/mariamsawwa12/student-grade-prediction) | Neural-network regression experiment with preprocessing, regularization, tuning, baseline comparison, evaluation, and model export. | TensorFlow, Keras, scikit-learn |
 
-> Backend development and AI service implementation were completed by other team members.
-
----
-
-### [Mova — Personalized Movie Discovery](https://github.com/mariamsawwa12/mova_app)
-
-An independent Flutter application featuring TMDB-powered discovery, dynamic search, advanced filters, detailed movie information, trailers, similar titles, watchlists, watch history, Firebase user services, notifications, bilingual localization, and light/dark themes.
-
-**Flutter · Provider · TMDB API · Firebase · SQLite · Easy Localization**
-
----
-
-### [Telco Customer Churn Prediction](https://github.com/mariamsawwa12/telco-customer-churn-prediction)
-
-An end-to-end imbalanced binary-classification project covering business framing, leakage-aware data preparation, EDA, feature engineering, five-model comparison, GridSearchCV, and held-out test evaluation. The selected Logistic Regression model achieved a test F1-score of **0.5656**, with recall identified as a key area for improvement.
-
-**Python · Pandas · scikit-learn · Seaborn · Classification**
-
----
-
-### [Student Grade Prediction with Deep Learning](https://github.com/mariamsawwa12/student-grade-prediction)
-
-A TensorFlow regression experiment using the UCI Student Performance dataset. The workflow includes preprocessing, neural-network training, dropout, early stopping, hyperparameter comparison, baseline evaluation, and model export. It served as the experimental foundation for StudyMate's separate mobile-oriented model.
-
-**Python · TensorFlow · Keras · scikit-learn · Regression**
+> In Alpha, Backend development and AI service implementation were completed by other team members; my documented contribution is the Flutter application and service integration.
 
 ## What Sets My Work Apart
 
@@ -123,11 +109,11 @@ I do not stop at a notebook or an interface alone. My projects increasingly conn
 
 These are active learning areas and are not presented as completed specializations.
 
-## Training
+## Education & Training
 
+- **Data Science & Artificial Intelligence — Al al-Bayt University**
 - **Mobile Application Development with Flutter — DOT Jordan**
-  - 130 hours of hands-on training
-  - Flutter and Dart, Firebase, REST APIs, Provider and BLoC, localization, theming, Git, AI integration, notifications, application structure, and deployment
+  - Completed 130 hours of hands-on training covering Flutter and Dart, Firebase, REST APIs, Provider and BLoC, localization, theming, Git, AI integration, notifications, application structure, and deployment
 
 ## Connect
 
