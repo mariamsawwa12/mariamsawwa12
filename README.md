@@ -13,7 +13,7 @@
 
 I am a **Data Scientist, AI Developer, and Flutter Developer** based in Jordan, with an academic background in Data Science and Artificial Intelligence at **Al al-Bayt University**. I build end-to-end projects that move from data exploration and model development to practical, user-facing mobile applications.
 
-My strongest intersection is **AI model development + Flutter integration**: preparing and evaluating machine-learning models, converting them for mobile deployment, and building the application experience around their predictions.
+My work spans three complementary areas: building complete Flutter applications, integrating mobile clients with Backend and AI services, and developing machine-learning workflows that can move beyond notebooks into usable products.
 
 - Experienced in Flutter development, Firebase services, REST API integration, state management, localization, and responsive mobile UI
 - Hands-on with data cleaning, EDA, feature engineering, classification, regression, model evaluation, and hyperparameter tuning
@@ -60,31 +60,77 @@ My strongest intersection is **AI model development + Flutter integration**: pre
 
 ## Featured Projects
 
-### Flagship Project
+The projects below represent three complementary strengths: independent Flutter development, large team-based integration, and end-to-end AI deployment.
 
-#### [StudyMate — From Deep-Learning Model to Flutter Application](https://github.com/mariamsawwa12/studymate-showcase)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-StudyMate best represents the intersection of my AI and mobile-development work. I developed the academic regression model, evaluated and prepared it for deployment, converted it to TensorFlow Lite, and built the Flutter application around its predictions.
+### [Mova](https://github.com/mariamsawwa12/mova_app)
 
-The application includes Firebase authentication, on-device inference, user-specific prediction history, performance analysis, personalized study guidance, Provider-based state management, and English/Arabic localization with RTL support.
+**Independent Flutter Project**
 
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Lite" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/Provider-6C63FF?style=flat-square" alt="Provider" />
-</p>
+A feature-rich movie discovery application that demonstrates full ownership of the mobile experience.
 
-### More Selected Work
+- TMDB discovery and search
+- Advanced genre, year, rating, and popularity filters
+- Movie details, cast, trailers, and similar titles
+- Firebase authentication and user services
+- Watchlist, watch history, and notifications
+- English/Arabic localization and RTL
+- Persistent light and dark themes
 
-| Project | Focus & Contribution | Technologies |
-| --- | --- | --- |
-| [Alpha Financial App](https://github.com/mariamsawwa12/alpha-financial-app) | Team-based AI-assisted finance platform. I worked on the Flutter UI, state management, REST integration, localization, and mobile-side financial, receipt, voice, chatbot, notification, and analysis flows. | Flutter, Provider, REST APIs |
-| [Mova](https://github.com/mariamsawwa12/mova_app) | Independent movie-discovery application with dynamic search, advanced filters, details, trailers, watchlists, Firebase user services, localization, and themes. | Flutter, TMDB, Firebase |
-| [Telco Churn Prediction](https://github.com/mariamsawwa12/telco-customer-churn-prediction) | End-to-end imbalanced classification workflow with EDA, feature engineering, five-model comparison, GridSearchCV, and held-out testing. Test F1: **0.5656**. | Python, Pandas, scikit-learn |
-| [Student Grade Prediction](https://github.com/mariamsawwa12/student-grade-prediction) | Neural-network regression experiment with preprocessing, regularization, tuning, baseline comparison, evaluation, and model export. | TensorFlow, Keras, scikit-learn |
+**Flutter · Provider · TMDB · Firebase**
 
-> In Alpha, Backend development and AI service implementation were completed by other team members; my documented contribution is the Flutter application and service integration.
+</td>
+<td width="33%" valign="top">
+
+### [Alpha](https://github.com/mariamsawwa12/alpha-financial-app)
+
+**Team & Integration Project**
+
+A large AI-assisted financial application demonstrating collaboration and integration across Flutter, Backend, and AI teams.
+
+- Multi-step financial onboarding
+- Authentication and OTP flows
+- Expenses, goals, planning, and financial cycles
+- Receipt, voice, chatbot, and analysis experiences
+- Provider-based state management
+- REST API integration
+- Localization, RTL, and theming
+
+**Flutter · Provider · REST APIs · Mobile Integrations**
+
+</td>
+<td width="33%" valign="top">
+
+### [StudyMate](https://github.com/mariamsawwa12/studymate-showcase)
+
+**AI + Mobile Project**
+
+An intelligent academic application demonstrating the complete path from model development to on-device Flutter inference.
+
+- Custom neural-network regression model
+- TensorFlow Lite conversion and deployment
+- Firebase authentication and prediction history
+- Performance insights and personalized study guidance
+- Provider state management
+- English/Arabic localization and RTL
+
+**Flutter · TensorFlow Lite · Firebase · Provider**
+
+</td>
+</tr>
+</table>
+
+> **Contribution clarity:** Mova and StudyMate are independent projects. Alpha is a multidisciplinary team project; my contribution focused on the Flutter application, state management, REST integration, mobile workflows, localization, and user experience. Backend and AI services were developed by other team members.
+
+### Data Science & Machine Learning Projects
+
+| Project | Workflow & Result |
+| --- | --- |
+| [Telco Customer Churn Prediction](https://github.com/mariamsawwa12/telco-customer-churn-prediction) | Business-focused imbalanced classification with leakage-aware splitting, EDA, feature engineering, five-model comparison, GridSearchCV, and held-out evaluation. Logistic Regression achieved a test F1-score of **0.5656**, with recall documented as the main improvement area. |
+| [Student Grade Prediction](https://github.com/mariamsawwa12/student-grade-prediction) | TensorFlow regression experiment covering preprocessing, neural-network training, dropout, early stopping, hyperparameter comparison, baseline evaluation, and model export. It formed the experimental foundation for StudyMate's separate mobile-oriented model. |
 
 ## What Sets My Work Apart
 
@@ -98,7 +144,7 @@ Mobile Deployment / API Integration
 Usable Flutter Product Experience
 ```
 
-I do not stop at a notebook or an interface alone. My projects increasingly connect **data, models, services, and mobile UX** into complete technical workflows.
+Across my portfolio, I demonstrate both depth and range: **Mova** shows independent Flutter ownership, **Alpha** shows collaboration and complex service integration, and **StudyMate** shows how I connect model development with a usable mobile product.
 
 ## Currently Developing
 
