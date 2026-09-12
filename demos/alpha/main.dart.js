@@ -9130,8 +9130,7 @@ apB:function apB(a){this.a=a},
 apD:function apD(a){this.a=a},
 apE:function apE(){},
 apF:function apF(a){this.a=a},
-apG:function apG(a,b){this.a=a
-this.b=b},
+apG:function apG(a){this.a=a},
 H2:function H2(a){var _=this
 _.a=!1
 _.b=null
@@ -55937,31 +55936,30 @@ return A.m($async$JD,r)},
 awF(a){var s,r=B.c.aI(a),q=A.br("[\\u0600-\\u06FF]",!1)
 if(q.b.test(r))return r
 q=t.N
-s=A.Z(["marhaba","\u0645\u0631\u062d\u0628\u0627","merhaba","\u0645\u0631\u062d\u0628\u0627","salam","\u0633\u0644\u0627\u0645","salaam","\u0633\u0644\u0627\u0645","ahlan","\u0623\u0647\u0644\u0627","shukran","\u0634\u0643\u0631\u0627","shokran","\u0634\u0643\u0631\u0627","masroof","\u0645\u0635\u0631\u0648\u0641","masarif","\u0645\u0635\u0627\u0631\u064a\u0641","tawfeer","\u062a\u0648\u0641\u064a\u0631","t\u0648\u0641\u064a\u0631","\u062a\u0648\u0641\u064a\u0631","idikhar","\u0627\u062f\u062e\u0627\u0631","saving","\u0627\u062f\u062e\u0627\u0631","expenses","\u0645\u0635\u0627\u0631\u064a\u0641","expense","\u0645\u0635\u0631\u0648\u0641","plan","\u062e\u0637\u0629","hadaf","\u0647\u062f\u0641","mizaneya","\u0645\u064a\u0632\u0627\u0646\u064a\u0629","mizaniyeh","\u0645\u064a\u0632\u0627\u0646\u064a\u0629"],q,q)
+s=A.Z(["marhaba","\u0645\u0631\u062d\u0628\u0627","merhaba","\u0645\u0631\u062d\u0628\u0627","salam","\u0633\u0644\u0627\u0645","salaam","\u0633\u0644\u0627\u0645","ahlan","\u0623\u0647\u0644\u0627","shukran","\u0634\u0643\u0631\u0627","shokran","\u0634\u0643\u0631\u0627","masroof","\u0645\u0635\u0631\u0648\u0641","masarif","\u0645\u0635\u0627\u0631\u064a\u0641","tawfeer","\u062a\u0648\u0641\u064a\u0631","t\u0648\u0641\u064a\u0631","\u062a\u0648\u0641\u064a\u0631","idikhar","\u0627\u062f\u062e\u0627\u0631","hadaf","\u0647\u062f\u0641","mizaneya","\u0645\u064a\u0632\u0627\u0646\u064a\u0629","mizaniyeh","\u0645\u064a\u0632\u0627\u0646\u064a\u0629"],q,q)
 q=B.c.jH(r,A.br("\\s+",!1))
 return new A.a1(q,new A.apz(s),A.a3(q).i("a1<1,y>")).bX(0," ")},
 ye(a){return this.afp(a)},
 afp(a0){var s=0,r=A.n(t.H),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f,e,d,c,b,a
 var $async$ye=A.j(function(a1,a2){if(a1===1){o.push(a2)
-s=p}for(;;)switch(s){case 0:c={}
-b=n.d
+s=p}for(;;)switch(s){case 0:b=n.d
 s=3
 return A.f(b.I6(new A.apB(n),new A.apC(n)),$async$ye)
 case 3:if(!a2){s=1
-break}c.a=a0
+break}m=a0
 p=5
 s=8
 return A.f(b.lz(),$async$ye)
-case 8:m=a2
-l=a0.toLowerCase()
-if(J.Fh(l,"ar")){for(g=["ar-SA","ar-EG","ar-AE","ar-JO"],f=0;f<4;++f){k=g[f]
-j=J.yR(m,new A.apD(k))
-if(!J.my(j)){e=J.c2(j)
-if(!e.A())A.ab(A.cV())
-c.a=e.gU().a
-break}}if(!B.c.c_(c.a.toLowerCase(),"ar")){i=J.yR(m,new A.apE())
-if(!J.my(i))c.a=J.nZ(i).a}}else{h=J.yR(m,new A.apF(l))
-if(!J.my(h))c.a=J.nZ(h).a}p=2
+case 8:l=a2
+k=a0.toLowerCase()
+if(J.Fh(k,"ar")){for(f=["ar-SA","ar-EG","ar-AE","ar-JO"],e=0;e<4;++e){j=f[e]
+i=J.yR(l,new A.apD(j))
+if(!J.my(i)){d=J.c2(i)
+if(!d.A())A.ab(A.cV())
+m=d.gU().a
+break}}if(!B.c.c_(m.toLowerCase(),"ar")){h=J.yR(l,new A.apE())
+if(!J.my(h))m=J.nZ(h).a}}else{g=J.yR(l,new A.apF(k))
+if(!J.my(g))m=J.nZ(g).a}p=2
 s=7
 break
 case 5:p=4
@@ -55972,7 +55970,7 @@ case 4:s=2
 break
 case 7:n.e=!0
 n.G()
-b.Ij(B.X1,B.ab2,c.a,new A.apG(c,n),!0,B.a0)
+b.Ij(B.X1,B.ab2,m,new A.apG(n),!0,B.a0)
 case 1:return A.l(q,r)
 case 2:return A.k(o.at(-1),r)}})
 return A.m($async$ye,r)},
@@ -56022,8 +56020,8 @@ $1(a){return a.a.toLowerCase()===this.a},
 $S:135}
 A.apG.prototype={
 $1(a){var s,r,q=a.a,p=q.length!==0?B.b.gZ(q).a:""
-q=this.b
-s=B.c.c_(this.a.a.toLowerCase(),"ar")?q.awF(p):p
+q=this.a
+s=q.awF(p)
 q.f=s
 r=q.c
 r.scs(s)
