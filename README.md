@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mariam%20Abu%20Sawwa&fontSize=52&fontAlignY=35&desc=Data%20Scientist%20%26%20AI%20Developer%20%7C%20Flutter%20Developer&descAlignY=58&descSize=18&color=gradient&customColorList=6,12,19,24&animation=fadeIn&fontColor=ffffff" width="100%" alt="Mariam Abu Sawwa profile banner" />
+<img src="assets/profile-banner.svg" width="100%" alt="Mariam Abu Sawwa — Flutter Developer, Data Scientist, and AI Developer" />
+
+<img src="assets/profile-visual.svg" width="165" alt="AI and data profile visual" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+AI-Powered+Mobile+Applications;Turning+Data+into+Practical+Solutions;Connecting+Machine+Learning+with+Flutter" alt="Professional focus" />
 
