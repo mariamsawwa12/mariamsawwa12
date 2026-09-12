@@ -1,6 +1,6 @@
 {
-    "name": "movie_app",
-    "short_name": "movie_app",
+    "name": "mova_portfolio_web",
+    "short_name": "mova_portfolio_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
