@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+AI-Powered+Mobile+Applications;Turning+Data+into+Practical+Solutions;Connecting+Machine+Learning+with+Flutter" alt="Professional focus" />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariam_Abu_Sawwa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-abusawwa-ba935030b/)
 [![GitHub](https://img.shields.io/badge/GitHub-mariamsawwa12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariamsawwa12)
 ![Location](https://img.shields.io/badge/Location-Jordan-7B61FF?style=for-the-badge)
 
@@ -165,6 +166,7 @@ These are active learning areas and are not presented as completed specializatio
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-abusawwa-ba935030b/)
 [![GitHub](https://img.shields.io/badge/GitHub-View_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariamsawwa12)
 
 </div>
