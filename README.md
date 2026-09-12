@@ -1,16 +1,146 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mariamsawwa12/mariamsawwa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mariam%20Abu%20Sawwa&fontSize=52&fontAlignY=35&desc=Data%20Scientist%20%26%20AI%20Developer%20%7C%20Flutter%20Developer&descAlignY=58&descSize=18&color=gradient&customColorList=6,12,19,24&animation=fadeIn&fontColor=ffffff" width="100%" alt="Mariam Abu Sawwa profile banner" />
 
-Here are some ideas to get you started:
+### Building data-driven models and intelligent mobile experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-mariamsawwa12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariamsawwa12)
+![Location](https://img.shields.io/badge/Location-Jordan-7B61FF?style=for-the-badge)
+
+</div>
+
+## About Me
+
+I am a **Data Scientist & AI Developer and Flutter Developer** with an academic background in Data Science and Artificial Intelligence. I build end-to-end projects that move from data exploration and model development to practical, user-facing mobile applications.
+
+My strongest intersection is **AI model development + Flutter integration**: preparing and evaluating machine-learning models, converting them for mobile deployment, and building the application experience around their predictions.
+
+- Experienced in Flutter development, Firebase services, REST API integration, state management, localization, and responsive mobile UI
+- Hands-on with data cleaning, EDA, feature engineering, classification, regression, model evaluation, and hyperparameter tuning
+- Completed **130 hours of hands-on Mobile Application Development with Flutter training at DOT Jordan**
+- Currently developing deeper skills in **AI Agents, NLP, Computer Vision, and Advanced Deep Learning**
+
+## Core Focus
+
+| Data Science & AI | Flutter Development | Intelligent Applications |
+| --- | --- | --- |
+| Data analysis, feature engineering, classification, regression, and evaluation | Cross-feature mobile apps using Provider, Firebase, REST APIs, and local persistence | TensorFlow Lite deployment, AI-service integration, voice, camera, and data-driven UX |
+
+## Technical Skills
+
+### Data Science & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Lite" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+**Applied skills:** EDA · Data Cleaning · Feature Engineering · Classification · Regression · Model Evaluation · Cross-Validation · Hyperparameter Tuning · Imbalanced Classification
+
+### Flutter & Mobile Development
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/Provider-6C63FF?style=flat-square" alt="Provider" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" alt="REST API" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+**Applied skills:** Provider & ChangeNotifier · BLoC · GetX · Firebase Authentication · Cloud Firestore · Storage · FCM · SharedPreferences · Localization · Arabic RTL · Responsive UI · Camera · Audio · Speech-to-Text · Media Integration
+
+## Featured Projects
+
+### [StudyMate — AI-Powered Academic Companion](https://github.com/mariamsawwa12/studymate-showcase)
+
+My strongest end-to-end AI and mobile project. I developed the Flutter application and the academic regression model, converted the model to TensorFlow Lite, integrated on-device inference, and added Firebase authentication, prediction history, bilingual localization, performance insights, and personalized study guidance.
+
+**Flutter · TensorFlow · Keras · TensorFlow Lite · Firebase · Provider**
+
+---
+
+### [Alpha Financial App — AI-Assisted Personal Finance](https://github.com/mariamsawwa12/alpha-financial-app)
+
+A multidisciplinary team project combining Flutter, Backend, and AI services. My contribution focused on the Flutter UI, Provider-based state management, REST API integration, authentication and OTP, financial workflows, localization, theming, and mobile-side receipt, voice, chatbot, notification, and analysis experiences.
+
+**Flutter · Dart · Provider · REST APIs · Localization · Mobile Integrations**
+
+> Backend development and AI service implementation were completed by other team members.
+
+---
+
+### [Mova — Personalized Movie Discovery](https://github.com/mariamsawwa12/mova_app)
+
+An independent Flutter application featuring TMDB-powered discovery, dynamic search, advanced filters, detailed movie information, trailers, similar titles, watchlists, watch history, Firebase user services, notifications, bilingual localization, and light/dark themes.
+
+**Flutter · Provider · TMDB API · Firebase · SQLite · Easy Localization**
+
+---
+
+### [Telco Customer Churn Prediction](https://github.com/mariamsawwa12/telco-customer-churn-prediction)
+
+An end-to-end imbalanced binary-classification project covering business framing, leakage-aware data preparation, EDA, feature engineering, five-model comparison, GridSearchCV, and held-out test evaluation. The selected Logistic Regression model achieved a test F1-score of **0.5656**, with recall identified as a key area for improvement.
+
+**Python · Pandas · scikit-learn · Seaborn · Classification**
+
+---
+
+### [Student Grade Prediction with Deep Learning](https://github.com/mariamsawwa12/student-grade-prediction)
+
+A TensorFlow regression experiment using the UCI Student Performance dataset. The workflow includes preprocessing, neural-network training, dropout, early stopping, hyperparameter comparison, baseline evaluation, and model export. It served as the experimental foundation for StudyMate's separate mobile-oriented model.
+
+**Python · TensorFlow · Keras · scikit-learn · Regression**
+
+## What Sets My Work Apart
+
+```text
+Data & Problem Understanding
+            ↓
+Model Development & Evaluation
+            ↓
+Mobile Deployment / API Integration
+            ↓
+Usable Flutter Product Experience
+```
+
+I do not stop at a notebook or an interface alone. My projects increasingly connect **data, models, services, and mobile UX** into complete technical workflows.
+
+## Currently Developing
+
+- AI Agents and intelligent workflows
+- Natural Language Processing
+- Computer Vision
+- Advanced Deep Learning
+
+These are active learning areas and are not presented as completed specializations.
+
+## Training
+
+- **Mobile Application Development with Flutter — DOT Jordan**
+  - 130 hours of hands-on training
+  - Flutter and Dart, Firebase, REST APIs, Provider and BLoC, localization, theming, Git, AI integration, notifications, application structure, and deployment
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariamsawwa12)
+
+</div>
+
+---
+
+<div align="center">
+
+### Turning data and intelligent models into practical mobile experiences.
+
+</div>
