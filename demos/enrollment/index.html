@@ -43,7 +43,6 @@
   #overview .panel h3{overflow-wrap:anywhere!important;padding-inline:4px!important}
   #overview .kpi{width:100%!important;max-width:100%!important;font-size:34px!important}
   #overview .insights{width:100%!important;max-width:100%!important;overflow-wrap:anywhere!important}
-  .main{min-width:0!important;max-width:100%!important;width:100%!important;overflow:hidden!important}
 }
 </style>
 <style>
@@ -59,6 +58,18 @@
   #overview .bottom>div,#overview .insights{width:100%!important;max-width:100%!important;min-width:0!important}
   #overview .kpi{min-height:90px!important;height:90px!important}
   #overview h3{max-width:100%!important;white-space:normal!important;word-break:normal!important;overflow-wrap:break-word!important}
+}
+</style>
+
+<style>
+/* trend-mobile-restore */
+@media (max-width:700px){
+  #detail{width:100%;max-width:100%;overflow:visible}
+  #detail .trend-grid{height:auto;display:grid;grid-template-columns:1fr;gap:8px;width:100%;max-width:100%}
+  #detail .trend-grid>.panel{min-width:0;width:100%;max-width:100%;min-height:290px;overflow:visible}
+  #detail .chartbox{height:245px;width:100%;max-width:100%;min-width:0}
+  #detail canvas{display:block;max-width:100%}
+  #detail .insights2{height:auto;min-height:0;margin-top:8px;width:100%;max-width:100%}
 }
 </style>
 </head><body><div class="app"><aside class="side"><div id="overviewSide" class="side-mode active"><div class="label">Country Name</div><div class="checks" id="countries"></div><div class="label">Years</div><div class="year-row"><select id="fromYear"></select><select id="toYear"></select></div><div class="label">Series</div><select class="select" id="seriesSelect"><option value="all">All</option><option value="primary">Enrolment in primary education</option><option value="secondary">Enrolment in secondary education</option><option value="tertiary">Enrolment in tertiary education</option><option value="multiple" disabled>Multiple indicators</option></select><div class="hint"></div></div>
