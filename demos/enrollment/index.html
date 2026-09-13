@@ -31,7 +31,22 @@
  .insights2{height:auto;min-height:0;margin-top:8px}
  .hint{font-size:9px}
 }
-</style></head><body><div class="app"><aside class="side"><div id="overviewSide" class="side-mode active"><div class="label">Country Name</div><div class="checks" id="countries"></div><div class="label">Years</div><div class="year-row"><select id="fromYear"></select><select id="toYear"></select></div><div class="label">Series</div><select class="select" id="seriesSelect"><option value="all">All</option><option value="primary">Enrolment in primary education</option><option value="secondary">Enrolment in secondary education</option><option value="tertiary">Enrolment in tertiary education</option><option value="multiple" disabled>Multiple indicators</option></select><div class="hint"></div></div>
+</style>
+<style>
+/* overview-mobile-overflow-fix */
+@media (max-width:700px){
+  #overview,.overview-grid,.overview-grid>*{min-width:0!important;max-width:100%!important;width:100%!important;overflow:visible!important}
+  #overview .panel,#overview .bottom,#overview .bottom>*{min-width:0!important;max-width:100%!important;width:100%!important}
+  #overview .mapwrap,#overview .barwrap{width:100%!important;max-width:100%!important;min-width:0!important;overflow:hidden!important}
+  #overview canvas{display:block!important;width:100%!important;max-width:100%!important;min-width:0!important}
+  #overview .bottom h3{white-space:normal!important;overflow-wrap:anywhere!important;text-align:center!important}
+  #overview .panel h3{overflow-wrap:anywhere!important;padding-inline:4px!important}
+  #overview .kpi{width:100%!important;max-width:100%!important;font-size:34px!important}
+  #overview .insights{width:100%!important;max-width:100%!important;overflow-wrap:anywhere!important}
+  .main{min-width:0!important;max-width:100%!important;width:100%!important;overflow:hidden!important}
+}
+</style>
+</head><body><div class="app"><aside class="side"><div id="overviewSide" class="side-mode active"><div class="label">Country Name</div><div class="checks" id="countries"></div><div class="label">Years</div><div class="year-row"><select id="fromYear"></select><select id="toYear"></select></div><div class="label">Series</div><select class="select" id="seriesSelect"><option value="all">All</option><option value="primary">Enrolment in primary education</option><option value="secondary">Enrolment in secondary education</option><option value="tertiary">Enrolment in tertiary education</option><option value="multiple" disabled>Multiple indicators</option></select><div class="hint"></div></div>
 <div id="detailSide" class="side-mode"><div class="label">Country Name</div><div class="radios" id="focusRadios"></div><div class="label">Years</div><div class="year-row"><select id="fromYear2"></select><select id="toYear2"></select></div><div class="label">Series</div><div class="series-tiles"><button id="allSeries" class="active">Select all</button><button class="seriesTile" data-series="secondary">Enrolment in secondary education</button><button class="seriesTile" data-series="primary">Enrolment in primary education</button><button class="seriesTile" data-series="tertiary">Enrolment in tertiary education</button></div><div class="hint"></div></div>
 <div class="tabs"><button id="tabOverview" class="active">Overview</button><button id="tabDetail">Trend</button></div></aside>
 <main class="main"><div class="title">Educational Enrollment Analysis Across Selected Countries (2016–2019)</div>
