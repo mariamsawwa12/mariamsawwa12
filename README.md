@@ -26,11 +26,11 @@ My work spans three complementary areas: building complete Flutter applications,
 
 | Data Science & AI | Flutter Development | Intelligent Applications |
 | --- | --- | --- |
-| Data analysis, feature engineering, classification, regression, and evaluation | Cross-feature mobile apps using Provider, Firebase, REST APIs, and local persistence | TensorFlow Lite deployment, AI-service integration, voice, camera, and data-driven UX |
+| Data analysis, feature engineering, classification, regression, and evaluation | Cross-platform mobile apps using Provider, Firebase, REST APIs, and local persistence | TensorFlow Lite deployment, AI-service integration, voice, camera, and data-driven UX |
 
 ## Technical Skills
 
-### Data Science & Machine Learning
+### Data Science, Analytics & Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -41,9 +41,12 @@ My work spans three complementary areas: building complete Flutter applications,
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
 <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Lite" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square" alt="Power Query" />
+<img src="https://img.shields.io/badge/DAX-0078D4?style=flat-square" alt="DAX" />
 </p>
 
-**Applied skills:** EDA · Data Cleaning · Feature Engineering · Classification · Regression · Model Evaluation · Cross-Validation · Hyperparameter Tuning · Imbalanced Classification
+**Applied skills:** EDA · Data Cleaning · Feature Engineering · Power Query · DAX · Dashboard Design · Classification · Regression · Model Evaluation · Cross-Validation · Hyperparameter Tuning · Imbalanced Classification
 
 ### Flutter & Mobile Development
 
@@ -127,10 +130,11 @@ An intelligent academic application demonstrating the complete path from model d
 
 > **Contribution clarity:** Mova and StudyMate are independent projects. Alpha is a multidisciplinary team project; my contribution focused on the Flutter application, state management, REST integration, mobile workflows, localization, and user experience. Backend and AI services were developed by other team members.
 
-### Data Science & Machine Learning Projects
+### Data Science, Analytics & Machine Learning Projects
 
 | Project | Workflow & Result |
 | --- | --- |
+| [Educational Enrollment Power BI Dashboard](https://github.com/mariamsawwa12/educational-enrollment-power-bi-dashboard) | Interactive two-page Power BI analysis of primary, secondary, and tertiary enrollment across six selected countries from 2016 to 2019. Includes Power Query data preparation, missing-value handling, DAX-powered dynamic titles, slicers, geographic analysis, trend analysis, and a documented analytical report. |
 | [Telco Customer Churn Prediction](https://github.com/mariamsawwa12/telco-customer-churn-prediction) | Business-focused imbalanced classification with leakage-aware splitting, EDA, feature engineering, five-model comparison, GridSearchCV, and held-out evaluation. Logistic Regression achieved a test F1-score of **0.5656**, with recall documented as the main improvement area. |
 | [Student Grade Prediction](https://github.com/mariamsawwa12/student-grade-prediction) | TensorFlow regression experiment covering preprocessing, neural-network training, dropout, early stopping, hyperparameter comparison, baseline evaluation, and model export. It formed the experimental foundation for StudyMate's separate mobile-oriented model. |
 
@@ -146,7 +150,7 @@ Mobile Deployment / API Integration
 Usable Flutter Product Experience
 ```
 
-Across my portfolio, I demonstrate both depth and range: **Mova** shows independent Flutter ownership, **Alpha** shows collaboration and complex service integration, and **StudyMate** shows how I connect model development with a usable mobile product.
+Across my portfolio, I demonstrate both depth and range: **Mova** shows independent Flutter ownership, **Alpha** shows collaboration and complex service integration, **StudyMate** connects model development with a usable mobile product, and the **Educational Enrollment Dashboard** demonstrates data preparation, DAX, and analytical storytelling in Power BI.
 
 ## Currently Developing
 
