@@ -142,12 +142,14 @@ An intelligent academic application demonstrating the path from model developmen
 - **Mobile Application Development with Flutter — DOT Jordan** · 130 hours
   - Flutter & Dart, REST APIs, Firebase, Provider & BLoC, localization, theming, Git, notifications, AI integration, application structure, and deployment
 - **Flutter Development Training — Tuned Applications Academy** · 80 hours
-- **Machine Learning — Qafza Tech** · 30 hours
+- **Machine Learning — Qafza Tech** · 30 hours · Certificate of Training Program Completion · Sep 2026
 - **Programming & Data Analysis Using Python — Qafza Tech** · 24 hours
 - **Data Science Training Program — Qafza Tech** · In Progress
 - **English Language Diploma — JUGate Academy** · 160 hours
 
 ## Certifications & Achievements
+
+- **Machine Learning — Qafza Tech** · 30 hours · Training Program Completion · Sep 2026
 
 - **Jordanian Collegiate Programming Contest (JCPC) — Honorable Mention** · 2025
 - **FinTech Rally Hackathon 2026 — JOIN Fincubator / JoPACC** · Team Alpha · Passed Phase 1 Concept Evaluation
