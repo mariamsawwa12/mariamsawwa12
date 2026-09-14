@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+AI-Powered+Mobile+Applications;Turning+Data+into+Practical+Solutions;Connecting+Machine+Learning+with+Flutter" alt="Professional focus" />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mariamsawwa12.github.io/mariamsawwa12/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariam_Abu_Sawwa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-abusawwa-ba935030b/)
 [![GitHub](https://img.shields.io/badge/GitHub-mariamsawwa12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariamsawwa12)
 ![Location](https://img.shields.io/badge/Location-Jordan-7B61FF?style=for-the-badge)
@@ -55,7 +56,8 @@ My work connects three areas: building complete Flutter applications, developing
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-**Applied skills:** Provider & ChangeNotifier · BLoC · Firebase Authentication · Cloud Firestore · Storage · FCM · SharedPreferences · Localization · Arabic RTL · Responsive UI · Camera · Audio · Speech-to-Text · Media Integration
+**Applied skills:** Provider & ChangeNotifier · Firebase Authentication · Cloud Firestore · Storage · FCM · SharedPreferences · Localization · Arabic RTL · Responsive UI · Camera · Audio · Speech-to-Text · Media Integration  
+**Training exposure:** BLoC
 
 ## Featured Projects
 
@@ -132,21 +134,25 @@ An intelligent academic application demonstrating the path from model developmen
 | [Telco Customer Churn Prediction](https://github.com/mariamsawwa12/telco-customer-churn-prediction) | Business-focused imbalanced classification with leakage-aware splitting, EDA, feature engineering, five-model comparison, GridSearchCV, and held-out evaluation. Logistic Regression achieved a test F1-score of **0.5656**, with recall documented as the main improvement area. |
 | [Student Grade Prediction](https://github.com/mariamsawwa12/student-grade-prediction) | TensorFlow regression experiment covering preprocessing, neural-network training, dropout, early stopping, hyperparameter comparison, baseline evaluation, and model export. It formed the experimental foundation for StudyMate's separate mobile-oriented model. |
 
+**Explore interactive demos, project details, and certifications → [Portfolio](https://mariamsawwa12.github.io/mariamsawwa12/)**
+
 ## Education & Training
 
 - **BSc Data Science & Artificial Intelligence — Al al-Bayt University** · Expected 2027
 - **Mobile Application Development with Flutter — DOT Jordan** · 130 hours
   - Flutter & Dart, REST APIs, Firebase, Provider & BLoC, localization, theming, Git, notifications, AI integration, application structure, and deployment
 - **Flutter Development Training — Tuned Applications Academy** · 80 hours
-- **Python & Data Analysis — Qafza** · 24 hours
-- **English Diploma**
+- **Machine Learning — Qafza Tech** · 30 hours
+- **Programming & Data Analysis Using Python — Qafza Tech** · 24 hours
+- **Data Science Training Program — Qafza Tech** · In Progress
+- **English Language Diploma — JUGate Academy** · 160 hours
 
 ## Certifications & Achievements
 
-- **ICPC 2025 — JCPC AABU** · Honorable Mention
+- **Jordanian Collegiate Programming Contest (JCPC) — Honorable Mention** · 2025
 - **FinTech Rally Hackathon 2026 — JOIN Fincubator / JoPACC** · Team Alpha · Passed Phase 1 Concept Evaluation
 - **IT & AI Forum** · Recognition for contribution, teamwork, innovation, and participation
-- Additional certificates and training are showcased in my portfolio
+- Additional certificates and training are showcased in my [Portfolio](https://mariamsawwa12.github.io/mariamsawwa12/)
 
 ## Currently Developing
 
@@ -161,6 +167,7 @@ These are active learning areas and are not presented as completed specializatio
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mariamsawwa12.github.io/mariamsawwa12/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamsawwa12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-abusawwa-ba935030b/)
 [![GitHub](https://img.shields.io/badge/GitHub-View_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariamsawwa12)
