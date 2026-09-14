@@ -2,7 +2,6 @@
 
 <img src="assets/profile-banner.svg" width="100%" alt="Mariam Abu Sawwa — Flutter Developer, Data Scientist, and AI Developer" />
 
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+AI-Powered+Mobile+Applications;Turning+Data+into+Practical+Solutions;Connecting+Machine+Learning+with+Flutter" alt="Professional focus" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariam_Abu_Sawwa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-abusawwa-ba935030b/)
@@ -13,20 +12,15 @@
 
 ## About Me
 
-I am a **Data Scientist, AI Developer, and Flutter Developer** based in Jordan, with an academic background in Data Science and Artificial Intelligence at **Al al-Bayt University**. I build end-to-end projects that move from data exploration and model development to practical, user-facing mobile applications.
+I am a **Flutter Developer, Data Scientist, and AI Developer** based in Jordan, with an academic background in Data Science and Artificial Intelligence at **Al al-Bayt University**.
 
-My work spans three complementary areas: building complete Flutter applications, integrating mobile clients with Backend and AI services, and developing machine-learning workflows that can move beyond notebooks into usable products.
+My work connects three areas: building complete Flutter applications, developing machine-learning solutions, and turning data into practical user-facing products.
 
-- Experienced in Flutter development, Firebase services, REST API integration, state management, localization, and responsive mobile UI
-- Hands-on with data cleaning, EDA, feature engineering, classification, regression, model evaluation, and hyperparameter tuning
-- Completed **130 hours of hands-on Mobile Application Development with Flutter training at DOT Jordan**
+- Building Flutter applications with Firebase, REST APIs, Provider/ChangeNotifier, localization, RTL, responsive UI, and local persistence
+- Developing ML workflows covering data cleaning, EDA, feature engineering, classification, regression, model evaluation, and hyperparameter tuning
+- Deploying intelligent features through TensorFlow Lite and service-integrated mobile experiences
+- Completed **210 hours of hands-on Flutter training** across DOT Jordan and Tuned Applications Academy
 - Currently developing deeper skills in **AI Agents, NLP, Computer Vision, and Advanced Deep Learning**
-
-## Core Focus
-
-| Data Science & AI | Flutter Development | Intelligent Applications |
-| --- | --- | --- |
-| Data analysis, feature engineering, classification, regression, and evaluation | Cross-platform mobile apps using Provider, Firebase, REST APIs, and local persistence | TensorFlow Lite deployment, AI-service integration, voice, camera, and data-driven UX |
 
 ## Technical Skills
 
@@ -61,11 +55,11 @@ My work spans three complementary areas: building complete Flutter applications,
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-**Applied skills:** Provider & ChangeNotifier · BLoC · GetX · Firebase Authentication · Cloud Firestore · Storage · FCM · SharedPreferences · Localization · Arabic RTL · Responsive UI · Camera · Audio · Speech-to-Text · Media Integration
+**Applied skills:** Provider & ChangeNotifier · BLoC · Firebase Authentication · Cloud Firestore · Storage · FCM · SharedPreferences · Localization · Arabic RTL · Responsive UI · Camera · Audio · Speech-to-Text · Media Integration
 
 ## Featured Projects
 
-The projects below represent three complementary strengths: independent Flutter development, large team-based integration, and end-to-end AI deployment.
+The projects below highlight independent Flutter development, team-based mobile integration, applied AI, machine learning, and analytics.
 
 <table>
 <tr>
@@ -75,7 +69,7 @@ The projects below represent three complementary strengths: independent Flutter 
 
 **Independent Flutter Project**
 
-A feature-rich movie discovery application that demonstrates full ownership of the mobile experience.
+A feature-rich movie discovery application demonstrating full ownership of the mobile experience.
 
 - TMDB discovery and search
 - Advanced genre, year, rating, and popularity filters
@@ -94,7 +88,7 @@ A feature-rich movie discovery application that demonstrates full ownership of t
 
 **Team & Integration Project**
 
-A large AI-assisted financial application demonstrating collaboration and integration across Flutter, Backend, and AI teams.
+A large AI-assisted financial application demonstrating collaboration across Flutter, Backend, and AI teams.
 
 - Multi-step financial onboarding
 - Authentication and OTP flows
@@ -113,7 +107,7 @@ A large AI-assisted financial application demonstrating collaboration and integr
 
 **AI + Mobile Project**
 
-An intelligent academic application demonstrating the complete path from model development to on-device Flutter inference.
+An intelligent academic application demonstrating the path from model development to on-device Flutter inference.
 
 - Custom neural-network regression model
 - TensorFlow Lite conversion and deployment
@@ -138,19 +132,21 @@ An intelligent academic application demonstrating the complete path from model d
 | [Telco Customer Churn Prediction](https://github.com/mariamsawwa12/telco-customer-churn-prediction) | Business-focused imbalanced classification with leakage-aware splitting, EDA, feature engineering, five-model comparison, GridSearchCV, and held-out evaluation. Logistic Regression achieved a test F1-score of **0.5656**, with recall documented as the main improvement area. |
 | [Student Grade Prediction](https://github.com/mariamsawwa12/student-grade-prediction) | TensorFlow regression experiment covering preprocessing, neural-network training, dropout, early stopping, hyperparameter comparison, baseline evaluation, and model export. It formed the experimental foundation for StudyMate's separate mobile-oriented model. |
 
-## What Sets My Work Apart
+## Education & Training
 
-```text
-Data & Problem Understanding
-            ↓
-Model Development & Evaluation
-            ↓
-Mobile Deployment / API Integration
-            ↓
-Usable Flutter Product Experience
-```
+- **BSc Data Science & Artificial Intelligence — Al al-Bayt University** · Expected 2027
+- **Mobile Application Development with Flutter — DOT Jordan** · 130 hours
+  - Flutter & Dart, REST APIs, Firebase, Provider & BLoC, localization, theming, Git, notifications, AI integration, application structure, and deployment
+- **Flutter Development Training — Tuned Applications Academy** · 80 hours
+- **Python & Data Analysis — Qafza** · 24 hours
+- **English Diploma**
 
-Across my portfolio, I demonstrate both depth and range: **Mova** shows independent Flutter ownership, **Alpha** shows collaboration and complex service integration, **StudyMate** connects model development with a usable mobile product, and the **Educational Enrollment Dashboard** demonstrates data preparation, DAX, and analytical storytelling in Power BI.
+## Certifications & Achievements
+
+- **ICPC 2025 — JCPC AABU** · Honorable Mention
+- **FinTech Rally Hackathon 2026 — JOIN Fincubator / JoPACC** · Team Alpha · Passed Phase 1 Concept Evaluation
+- **IT & AI Forum** · Recognition for contribution, teamwork, innovation, and participation
+- Additional certificates and training are showcased in my portfolio
 
 ## Currently Developing
 
@@ -161,16 +157,11 @@ Across my portfolio, I demonstrate both depth and range: **Mova** shows independ
 
 These are active learning areas and are not presented as completed specializations.
 
-## Education & Training
-
-- **Data Science & Artificial Intelligence — Al al-Bayt University**
-- **Mobile Application Development with Flutter — DOT Jordan**
-  - Completed 130 hours of hands-on training covering Flutter and Dart, Firebase, REST APIs, Provider and BLoC, localization, theming, Git, AI integration, notifications, application structure, and deployment
-
 ## Connect
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamsawwa12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-abusawwa-ba935030b/)
 [![GitHub](https://img.shields.io/badge/GitHub-View_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariamsawwa12)
 
